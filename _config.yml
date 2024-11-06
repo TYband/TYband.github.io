@@ -6,16 +6,15 @@ sass:
   style: compressed
 # 作者信息
 author:
-  name: Eric Zhou
-  email: dejavuzhou@qq.com
-  link: http://captcha.mojotv.cn
-  weibo: http://weibo.com/u/2706451481?is_all=1
-  github: http://github.com/dejavuzhou
+  name: L1337
+  email: muwhaha5@hotmail.com
+  link: https://gblog.l1337.com
+  github: http://github.com/TYband
 
 # 站点信息
 title: MojoTech
 description: 一个热爱分享技术的网站,Golang,Python,Docker,Raft...
-url: https://tech.mojotv.cn
+url: https://gblog.l1337.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
