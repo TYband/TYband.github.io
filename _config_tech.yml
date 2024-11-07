@@ -6,22 +6,21 @@ sass:
   style: compressed
 # 作者信息
 author:
-  name: Eric Zhou
-  email: dejavuzhou@qq.com
-  link: http://captcha.mojotv.cn
-  weibo: http://weibo.com/u/2706451481?is_all=1
-  github: http://github.com/dejavuzhou
+  name: L1337
+  email: muwhaha5@hotmail.com
+  link: https://gblog.l1337.com
+  github: http://github.com/TYband
 
 # 站点信息
-title: MojoTech
+title: L1337 blog
 description: 一个热爱分享技术的网站,Golang,Python,Docker,Raft...
-url: https://tech.mojotv.cn
+url: https://gblog.l1337.com
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: /assets/image/logo01.png
-favicon: /assets/image/logo01.png
-logo: /assets/image/logo01.png
+avatar: /assets/image/my.png
+favicon: /assets/image/my.png
+logo: /assets/image/my.png
 
 # Jekyll Plugin
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
@@ -34,10 +33,10 @@ categories: golang Docker CheatSheet Python Misc Raft Algorithm
 exclude: [robot,util,config,tutorials,main.go,install.sh,jekyll.sh,Gemfile,Gemfile.lock,jekyll_run.sh, codebase]
 
 # 谷歌统计ID
-ga_id: UA-129013660-1
+ga_id: 
 
 # google adsense ID
-gad_id: ca-pub-8488823422266592
+gad_id: c
 
 webmaster_verifications:
   google: 1234
@@ -48,8 +47,8 @@ webmaster_verifications:
   360: 4f66b4f11f2ba5c4a48abf000c5e5cbd
 
 twitter:
-  username: neochau
-  card: summary
+  username: 
+  card: 
 
 facebook:
   app_id: 1234
@@ -57,11 +56,5 @@ facebook:
   admins: 1234
 
 social:
-  name: Eric Zhou
+  name: 
   links:
-    - https://twitter.com/neochau
-    - https://github.com/dejavuzhou
-    - https://github.com/mojocn
-    - https://github.com/JJJJJJJerk
-    - https://weibo.com/dejavuzhou/home
-    - http://captcha.mojotv.cn
