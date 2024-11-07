@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dejavuzhou/dejavuzhou.github.io/util"
+	"github.com/TYband/TYband.github.io/util"
 	"log"
 	"time"
 )
@@ -11,13 +11,13 @@ var gitCount = 1
 func createCmds() []util.Cmd {
 	gitCount++
 	gifConfig1 := []util.Cmd{
-		{"git", []string{"config", "--global", "user.email", "'dejavuzhou@qq.com'"}},
+		{"git", []string{"config", "--global", "user.email", "'muwhaha5@hotmail.com'"}},
 	}
 	gifConfig2 := []util.Cmd{
-		{"git", []string{"config", "--global", "user.email", "'1413507308@qq.com'"}},
+		{"git", []string{"config", "--global", "user.email", "'muwhaha5@hotmail.com'"}},
 	}
 	cmds := []util.Cmd{
-		{"git", []string{"config", "--global", "user.name", "'EricZhou'"}},
+		{"git", []string{"config", "--global", "user.name", "'TYband'"}},
 		{"git", []string{"stash"}},
 		{"git", []string{"pull", "origin", "master"}},
 		{"git", []string{"stash", "apply"}},
