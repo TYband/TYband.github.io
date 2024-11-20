@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: AJAXM 博客
+description: "每日Hacker News新闻与VPS融合怪测试分享 | 个人技术博客"
+author: Lemonburger
+github: https://github.com/TYband
+about: 每日自动转发Hacker news新闻，分享vps融合怪测试的一个个人博客。
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -26,9 +26,6 @@ social:
     - icon: fa-github
       link: "https://github.com/agusmakmun"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
