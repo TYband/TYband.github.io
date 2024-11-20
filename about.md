@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+[探针](https://chmod.dd0s.org)
+[网站监控](https://status.dd0s.org)
+[github](https://github.com/TYband)
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
-
-email: summon.agus[at]gmail.com
+## LINUX DO

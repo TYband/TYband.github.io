@@ -66,7 +66,7 @@ java -Xmx2G -jar fabric-server-mc.1.21-pre1-loader.0.16.9-launcher.1.0.1.jar n
 - 架构：x64
 - JDK 版本：21
 
-<img src="https://ajaxm.com/assets/img/mc1.png">
+<img src="https://ajaxm.com/static/img/_posts/mc1.png">
 
 我是选择下载下来放在上面创建好的minecraft-server文件夹中。
 **解压文件**（将压缩包名字换成自己下载好的）
@@ -102,7 +102,7 @@ java -Xmx4G -Xms2G -jar fabric-server-launch.jar nogui
 
 # 错误解决
 1.缺少必要的配置文件 `server.properties` 和 `eula.txt`
-<img src="https://ajaxm.com/assets/img/20241120134008.png">
+<img src="https://ajaxm.com/static/img/_posts/mc1.png">
 解决步骤：
 ```
 echo "eula=true" > eula.txt
