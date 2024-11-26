@@ -1,8 +1,8 @@
-title: AJAXM
-description: "每日Hacker News新闻与VPS融合怪测试分享 | 个人技术博客"
+title:  "每日 Hacker News 热点新闻与 VPS 融合怪测试分享 | AJAXM 个人技术博客"
+description: "AJAXM 个人技术博客，每日自动转发 Hacker News 热点新闻，并分享 VPS 融合怪测试与开发工具实战，涵盖 Docker 部署、服务器安全等技术。"
 author: "AJAXM"  # 这里修改成你的名字或个人昵称
 github: https://github.com/TYband
-about: "每日自动转发Hacker news新闻，分享vps融合怪测试 | 个人博客"
+about:  "AJAXM 个人技术博客，每日自动转发 Hacker News 热点新闻，分享 VPS 融合怪测试，深入探讨 Docker 部署与优化、服务器安全配置等开发工具和技术。"
 disqus_shortname: stackproblems
 google_analytics: G-67BJWYGWHF
 
