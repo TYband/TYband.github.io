@@ -8,3 +8,4 @@ permalink: /about/
 [github](https://github.com/TYband)
 
 ## LINUX DO
+<img src="https://linux-do-card.0x1.site/chmod.svg?theme=light" alt="Image Description" width="600" />
