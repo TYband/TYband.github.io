@@ -1,8 +1,8 @@
-title:  "每日 Hacker News 热点新闻与 VPS 融合怪测试分享 | AJAXM 个人技术博客"
-description: "AJAXM 个人技术博客，每日自动转发 Hacker News 热点新闻，并分享 VPS 融合怪测试与开发工具实战，涵盖 Docker 部署、服务器安全等技术。"
+title:  "每日 Hacker News 中文新闻"
+description: "AJAXM 每日自动转发 Hacker News 中文新闻"
 author: "AJAXM"  # 这里修改成你的名字或个人昵称
 github: https://github.com/TYband
-about:  "AJAXM 个人技术博客，每日自动转发 Hacker News 热点新闻，分享 VPS 融合怪测试，深入探讨 Docker 部署与优化、服务器安全配置等开发工具和技术。"
+about:  "AJAXM 每日自动更新 Hacker News 中文新闻"
 disqus_shortname: stackproblems
 google_analytics: G-67BJWYGWHF
 
@@ -34,7 +34,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://ajaxm.com"  # 修改为你的实际域名
+url: "https://news.ajaxm.com"  # 修改为你的实际域名
 baseurl: ""  # 如果没有子目录，这里保持空
 paginate: 20
 per_page: 20
